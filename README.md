@@ -1,13 +1,12 @@
-<h1 style="center">HTML challange</h1>
+<h1 align="center">HTML challange</h1>
 
-<p style="center">This is a project with five challanges concluded by me</p>
+<p align="center">This is a project with five challanges concluded by me</p>
 
-<h2 style="center">The challanges</h2>
+## The challanges
 
-<li>
-  <ul>Glossary</ul>
-  <ul>Contact Form</ul>
-  <ul>Purchase List</ul>
-  <ul>Quiz</ul>
-  <ul>Blog Post</ul>
-</li>
+- Glossary
+- Contact Form
+- Purchase List
+- Quiz
+- Blog Post
+
